@@ -1,4 +1,4 @@
-function testModuleG6(options){
+function moduleTestG6(options){
     let images = document.querySelectorAll('.testModuleG6');
 
     if (options.shadow_type === 'hard') {
@@ -15,4 +15,4 @@ function testModuleG6(options){
     })
 }
 
-module.exports.testModuleG6 = testModuleG6;
+module.exports.moduleTestG6 = moduleTestG6;

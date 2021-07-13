@@ -4,14 +4,14 @@ Custom test module uploaded for GlobalSeis. Get the perfect shadow every time fo
 
 # Installation
 
-`npm i testModuleG6 --save`
+`npm i moduleTestG6 --save`
 
 Then...
 
 ```
-import {testModuleG6} from 'testModuleG6';
+import {moduleTestG6} from 'moduleTestG6';
 
-testModuleG6({
+moduleTestG6({
     shadow_type: 'soft',
     padding: false
 });
@@ -19,7 +19,7 @@ testModuleG6({
 
 ## Options
 
-testModuleG6, while this is a test module to confirm load into NPM, the basic functionality includes 2 options, both of which are optional:
+moduleTestG6, while this is a test module to confirm load into NPM, the basic functionality includes 2 options, both of which are optional:
 
 * *shadow_type* - _hard | soft_ (Defaults to soft)
 * *padding* - _boolean_ (Defaults to false)
