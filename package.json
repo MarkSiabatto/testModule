@@ -1,0 +1,19 @@
+{
+  "name": "testmoduleg6",
+  "version": "1.0.0",
+  "description": "Basic custom module for G6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoSiabatto/testModule.git"
+  },
+  "author": "Zeus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoSiabatto/testModule/issues"
+  },
+  "homepage": "https://github.com/MarcoSiabatto/testModule#readme"
+}
